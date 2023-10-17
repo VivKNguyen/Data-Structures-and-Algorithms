@@ -1,0 +1,29 @@
+Player is staying with: 16
+Dealer is staying with 17
+Dealer wins!
+Player's Hand: 7 9 =16
+Dealer's Hand: 11 6 =17
+
+Final Player's Hand: 7 9 
+Final Dealer's Hand : 11 6 
+
+
+Player is staying with: 17
+Dealer is staying with 19
+Dealer wins!
+Player's Hand: 11 6 =17
+Dealer's Hand: 9 10 =19
+
+Final Player's Hand: 11 6 
+Final Dealer's Hand : 9 10 
+
+
+
+Player is staying with: 17
+Dealer is staying with 18
+Dealer wins!
+Player's Hand: 10 7 =17
+Dealer's Hand: 10 8 =18
+
+Final Player's Hand: 10 7 
+Final Dealer's Hand : 10 8 
